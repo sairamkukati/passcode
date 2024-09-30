@@ -4,7 +4,7 @@
 
 ## Project setUp
 1. clone the repo:
-    git clone https://github.com/
+    git clone git@github.com:sairamkukati/passcode.git
 2. navigate to root directory and run:
     npm start
 3. set your passcode and confirm it. Then Login.
